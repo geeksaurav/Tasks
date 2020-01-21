@@ -3,7 +3,7 @@ package main
 import (
     "log"
 	"net/http"
-	"views"
+	"github.com/geeksaurav/Tasks/views"
 )
 
 func main(){

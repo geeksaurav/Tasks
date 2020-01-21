@@ -8,10 +8,10 @@ import (
 	"strings"
 	"html/template"
 	"time"
-	"db"
 	"log"
 	"fmt"
-	"types"
+	"github.com/geeksaurav/Tasks/db"
+	"github.com/geeksaurav/Tasks/types"
 )
 
 var (
